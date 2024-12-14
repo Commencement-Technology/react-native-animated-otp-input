@@ -4748,9 +4748,9 @@ mz@^2.7.0:
     thenify-all "^1.0.0"
 
 nanoid@^3.3.6:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
-  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 ncp@~2.0.0:
   version "2.0.0"
@@ -5303,10 +5303,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-animated-otp-input@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-animated-otp-input/-/react-native-animated-otp-input-0.1.1.tgz#34337255bc9074574c0426db04053c4bdce92f72"
-  integrity sha512-p/R5GDz75LVW4wnr4SlSNMe38ODmOOCrzK/xMQB1jKh9n21dfVHU48tOPK5oTRzcglaC8DYtpAQERbbrFo5wEQ==
+react-native-animated-otp-input@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/react-native-animated-otp-input/-/react-native-animated-otp-input-0.1.7.tgz#11d950c11f55ec8489d10a955e133fce6324d709"
+  integrity sha512-qR18HMT/NKs8Ip3Lu/8qCR1tamhcLpQw4OQ65gOWRDONzQomrrM6lxSbWixJ0LhI/6FZvxLkByXExBPXTP8JRA==
 
 react-native-reanimated@~3.3.0:
   version "3.3.0"
